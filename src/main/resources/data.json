@@ -1,0 +1,16 @@
+[
+  {
+    "accountNumber": "456",
+    "gasId": "GAS123",
+    "elecId": "ELEC123",
+    "gasSmartRead": "55444",
+    "elecSmartRead": "77788"
+  },
+  {
+    "accountNumber": "789",
+    "gasId": "GAS234",
+    "elecId": "ELEC567",
+    "gasSmartRead": "66444",
+    "elecSmartRead": "88788"
+  }
+]
